@@ -4,7 +4,7 @@
 
 ## Aufgabe gemeistert 😀
 
-Hier habe ich eine Profil Card erstellt und ein Video dazu erstellt.
+Hier habe ich eine Profil Card erstellt und ein [Video](https://youtu.be/F86hDgje9zM) dazu erstellt.
 
 Ich habe verwendet:
 - Flexbox
